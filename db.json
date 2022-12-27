@@ -2,7 +2,8 @@
     "users": [
       { "id": 1, "name": "Rena", "email":"rena@gmail.com","passowrd": "123456" ,"role":"admin"},
       { "id": 2, "name": "Joan", "email":"joan@gmail.com", "passowrd": "123456" ,"role":"user"},
-      { "id": 3, "name": "Amy", "email":"amy.lin@gmail.com", "passowrd": "123123" ,"role":"admin"}
+      { "id": 3, "name": "Amy", "email":"amy.lin@gmail.com", "passowrd": "123123" ,"role":"admin"},
+      { "id": 4, "name": "Dora", "email":"dora.lin@gmail.com", "passowrd": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvcmEubGluQGdtYWlsLmNvbSIsImlhdCI6MTY3MjE1NDk4MSwiZXhwIjoxNjcyMTU4NTgxLCJzdWIiOiI0In0.zwkznHVWYO5YNIsvC6xYaFOUkdmnAt1pf763rDi_Ubc" ,"role":"admin"}
     ],
     "attractions": [
       { "id": 1, "title": "艾菲爾鐵塔", "description": "艾菲爾鐵塔 (巴黎鐵塔)，法國精神象徵，是極具指標性的巴黎必去景點首選！最多人推薦夏樂宮、戰神廣場這兩個拍照點，無論是日景、夜景都適合，輕鬆抓好比例拍下整座鐵塔和巴黎天空。建於1889年鐵塔總高324公尺，登塔有一二層、登頂兩種方案，從巴黎市最高建築俯瞰市容超浪漫。" ,"imageUrl":"https://pic.pimg.tw/debby100/1653136710-3696888258-g.jpg","userId":1},
