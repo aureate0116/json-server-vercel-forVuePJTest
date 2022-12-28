@@ -3,7 +3,7 @@
       { "id": 1, "name": "Rena", "email":"rena@gmail.com","passowrd": "123456" ,"role":"admin"},
       { "id": 2, "name": "Joan", "email":"joan@gmail.com", "passowrd": "123456" ,"role":"user"},
       { "id": 3, "name": "Amy", "email":"amy.lin@gmail.com", "passowrd": "123123" ,"role":"admin"},
-      { "id": 4, "name": "Jerry", "email":"jerry@gmail.com", "passowrd": "$2a$10$eBuSAx37d/caneySgDmEue7CanA8cTuCGYqBqSHGw55s2JeMkAEeu" ,"role":"admin"}
+      { "id": 4, "name": "Jerry", "email":"jerry@gmail.com", "passowrd": "$2a$10$eBuSAx37d/caneySgDmEue7CanA8cTuCGYqBqSHGw55s2JeMkAEeu" ,"role":"admin"},
       { "id": 5, "name": "Dora", "email":"dora.lin@gmail.com", "passowrd": "$2a$10$EiOuy/82i60QF2pAuciXq.v3XEPMRKCtPgiXrtl5M1BjRXGhZFRgu" ,"role":"admin"}
     ],
     "attractions": [
